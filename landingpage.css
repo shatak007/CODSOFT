@@ -1,0 +1,85 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+
+nav ul {
+    list-style: none;
+}
+
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.hero {
+    background-image: url('background-image.jpg');
+    background-size: cover;
+    text-align: center;
+    padding: 100px;
+    color: #fff;
+}
+
+
+.cta-button {
+    display: inline-block;
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+
+.features {
+    padding: 40px;
+}
+
+
+.feature {
+    margin: 20px;
+}
+
+
+.pricing {
+    background-color: #f7f7f7;
+    padding: 40px;
+    text-align: center;
+    background-color: grey;
+}
+
+
+.price-plan {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.contact {
+    padding: 40px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
